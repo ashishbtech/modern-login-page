@@ -1,71 +1,82 @@
 # A15 Tech – Landing Page with Login UI
 
-This is a simple landing page project I built using HTML and CSS to practice layout design and styling.
+## 📸 Preview
 
-The page includes a navigation bar, hero section, and a login form with social media icons.
-
-This project does not include backend functionality. The login form is only for UI practice.
+![Project Preview](assets/preview.png)
 
 ---
 
-## What This Project Contains
+## 📌 About This Project
+
+This is a landing page UI project built using HTML and CSS as part of my frontend practice.
+
+The design includes a navigation bar, hero section, search bar, and a styled login form.  
+The main focus of this project was layout structuring and UI styling.
+
+This project does not include backend functionality. The login form is for design purposes only.
+
+---
+
+## 🚀 Features
 
 - Navigation bar with menu links
 - Search input and button
-- Hero section with heading and description
-- "Join Us" button
+- Hero section with highlighted heading
+- "Join Us" call-to-action button
 - Styled login form
 - Social media icons using Ionicons
-- Background image with dark overlay
+- Background image with dark gradient overlay
+- Hover effects and transitions
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS variables
-- Ionicons (for icons)
-
----
-
-## What I Practiced
-
-- Using Flexbox for layout alignment
-- Creating overlay using linear-gradient
-- Styling forms and inputs
-- Using CSS hover effects
-- Organizing clean HTML structure
-- Creating a glass-like login card using backdrop-filter
+- HTML5  
+- CSS3  
+- Flexbox  
+- CSS Variables  
+- Ionicons  
 
 ---
 
-## Project Structure
+## 🧠 What I Practiced
+
+- Layout alignment using Flexbox  
+- Creating a background overlay with `linear-gradient()`  
+- Styling forms and input fields  
+- Using CSS transitions and hover effects  
+- Organizing clean and readable HTML structure  
+- Creating a glass-like login card using `backdrop-filter`  
+
+---
+
+## 📂 Project Structure
 
 A15-Tech/
 │
-├── index.html
-├── style.css
-└── back.jpg
+├── index.html  
+├── style.css  
+├── back.jpg  
+└── README.md  
 
 ---
 
-## Limitations
+## ⚠️ Current Limitations
 
-- Not fully responsive yet
-- No JavaScript validation
-- No backend authentication
-
----
-
-## Future Improvements
-
-- Make it mobile responsive
-- Add JavaScript form validation
-- Connect to backend
-- Improve UI spacing and responsiveness
+- Not fully responsive for smaller screens  
+- No JavaScript form validation  
+- No backend authentication  
 
 ---
 
-Built as part of my web development practice.
+## 🔮 Future Improvements
+
+- Make it fully responsive  
+- Add JavaScript validation  
+- Connect to backend for authentication  
+- Improve spacing and accessibility  
+
+---
+
+Built as part of my web development learning journey.
